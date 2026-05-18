@@ -1,8 +1,8 @@
-# 📊 Telco Customer Churn Prediction & Analytics App
+# 📊 Customer Churn Prediction & Analytics App
 
 A complete, end-to-end Machine Learning pipeline and interactive web application built to predict customer churn using the telecom industry standards. This project implements advanced optimization strategies to handle real-world dataset challenges like class imbalance and model overfitting.
 
-🌐 **Live Demo:** [Insert your deployed Streamlit link here]
+🌐 **Live Demo:** [https://customer-churn-prediction-ojzsyn85kiyxqfj6jpyjya.streamlit.app/]
 
 ---
 
@@ -28,5 +28,5 @@ To meet professional standard requirements, the core notebook utilizes the follo
 
 ### 1. Clone the repository
 ```bash
-git clone [https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME.git)
-cd YOUR_REPO_NAME
+git clone [https://github.com/gaurav25bm/Customer-Churn-Prediction.git](https://github.com/gaurav25bm/Customer-Churn-Prediction.git)
+cd Customer-Churn-Prediction
