@@ -1,4 +1,4 @@
-# 📊 Customer Churn Prediction & Analytics App
+# 📊 Customer Churn Prediction App
 
 A complete, end-to-end Machine Learning pipeline and interactive web application built to predict customer churn using the telecom industry standards. This project implements advanced optimization strategies to handle real-world dataset challenges like class imbalance and model overfitting.
 
